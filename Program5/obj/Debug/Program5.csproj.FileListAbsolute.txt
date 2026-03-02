@@ -1,0 +1,14 @@
+D:\khushi\BCA4A\UNIT2\Program5\bin\Debug\Program5.exe.config
+D:\khushi\BCA4A\UNIT2\Program5\bin\Debug\Program5.exe
+D:\khushi\BCA4A\UNIT2\Program5\bin\Debug\Program5.pdb
+D:\khushi\BCA4A\UNIT2\Program5\obj\Debug\Program5.csproj.AssemblyReference.cache
+D:\khushi\BCA4A\UNIT2\Program5\obj\Debug\Program5.csproj.CoreCompileInputs.cache
+D:\khushi\BCA4A\UNIT2\Program5\obj\Debug\Program5.exe
+D:\khushi\BCA4A\UNIT2\Program5\obj\Debug\Program5.pdb
+D:\7073\unit2\Program5\bin\Debug\Program5.exe.config
+D:\7073\unit2\Program5\bin\Debug\Program5.exe
+D:\7073\unit2\Program5\bin\Debug\Program5.pdb
+D:\7073\unit2\Program5\obj\Debug\Program5.csproj.AssemblyReference.cache
+D:\7073\unit2\Program5\obj\Debug\Program5.csproj.CoreCompileInputs.cache
+D:\7073\unit2\Program5\obj\Debug\Program5.exe
+D:\7073\unit2\Program5\obj\Debug\Program5.pdb
